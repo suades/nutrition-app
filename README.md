@@ -1,1 +1,1 @@
-# nutrition-app
+# UMD's MyFitnessPal
